@@ -10,5 +10,5 @@ resposta.sendFile(`${caminho}/index.html`)
 } )
 
 app.listen(3000, () => {
-    console.log("servidor mudando na porta 3000")
+    console.log("servidor rodando na porta 3000")
 })
